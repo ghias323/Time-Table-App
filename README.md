@@ -1,1 +1,1 @@
-# Time-Table-App
+# Noor Prayer Timetable
